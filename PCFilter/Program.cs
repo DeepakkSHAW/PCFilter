@@ -8,7 +8,7 @@ namespace PCFilter
     {
         static void Main(string[] args)
         {
-            const string _sourceFolder = @"E:\Plurasight\W";
+            const string _sourceFolder = @"E:\Plurasight\Y";
             const string _targetFolder = @"E:\Temp\P\";
             var _moveFolder = @"E:\Temp\Move\";
 
